@@ -2,9 +2,6 @@ out/gcn_bi_sep_l2_ckpt
 out/gcn_bi_sep_l2_ckpt
 out/gcn_bi_sep_l2_ckpt
 Train size: 9872, Val size: 615, Test size: 603
-Epoch: [1 / 10] | Time: 239.10s | Loss: 98.3396 | Val scores: BLEU_1 = 0.41965, BLEU_2 = 0.37213, BLEU_3 = 0.33150, BLEU_4 = 0.29586
-out/gcn_bi_sep_l2_ckpt
-Train size: 9872, Val size: 615, Test size: 603
 Epoch: [1 / 50] | Time: 237.90s | Loss: 98.3636 | Val scores: BLEU_1 = 0.42775, BLEU_2 = 0.37965, BLEU_3 = 0.33838, BLEU_4 = 0.30211
 Epoch: [2 / 50] | Time: 239.32s | Loss: 59.6040 | Val scores: BLEU_1 = 0.44238, BLEU_2 = 0.39357, BLEU_3 = 0.35161, BLEU_4 = 0.31493
 Epoch: [3 / 50] | Time: 237.92s | Loss: 53.5225 | Val scores: BLEU_1 = 0.43632, BLEU_2 = 0.38777, BLEU_3 = 0.34648, BLEU_4 = 0.31044
