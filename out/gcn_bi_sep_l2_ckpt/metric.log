@@ -1,0 +1,72 @@
+out/gcn_bi_sep_l2_ckpt
+out/gcn_bi_sep_l2_ckpt
+out/gcn_bi_sep_l2_ckpt
+Train size: 91699, Val size: 615, Test size: 603
+out/gcn_bi_sep_l2_ckpt
+out/gcn_bi_sep_l2_ckpt
+out/gcn_bi_sep_l2_ckpt
+Train size: 1219, Val size: 615, Test size: 603
+out/gcn_bi_sep_l2_ckpt
+Train size: 91699, Val size: 615, Test size: 603
+out/gcn_bi_sep_l2_ckpt
+Train size: 91699, Val size: 615, Test size: 603
+out/gcn_bi_sep_l2_ckpt
+Train size: 9872, Val size: 615, Test size: 603
+out/gcn_bi_sep_l2_ckpt
+Train size: 9872, Val size: 615, Test size: 603
+Epoch: [1 / 10] | Time: 239.10s | Loss: 98.3396 | Val scores: BLEU_1 = 0.41965, BLEU_2 = 0.37213, BLEU_3 = 0.33150, BLEU_4 = 0.29586
+out/gcn_bi_sep_l2_ckpt
+Train size: 9872, Val size: 615, Test size: 603
+Epoch: [1 / 50] | Time: 237.90s | Loss: 98.3636 | Val scores: BLEU_1 = 0.42775, BLEU_2 = 0.37965, BLEU_3 = 0.33838, BLEU_4 = 0.30211
+Epoch: [2 / 50] | Time: 239.32s | Loss: 59.6040 | Val scores: BLEU_1 = 0.44238, BLEU_2 = 0.39357, BLEU_3 = 0.35161, BLEU_4 = 0.31493
+Epoch: [3 / 50] | Time: 237.92s | Loss: 53.5225 | Val scores: BLEU_1 = 0.43632, BLEU_2 = 0.38777, BLEU_3 = 0.34648, BLEU_4 = 0.31044
+Epoch: [4 / 50] | Time: 237.41s | Loss: 50.0772 | Val scores: BLEU_1 = 0.45044, BLEU_2 = 0.40043, BLEU_3 = 0.35810, BLEU_4 = 0.32123
+Epoch: [5 / 50] | Time: 237.03s | Loss: 47.6791 | Val scores: BLEU_1 = 0.44591, BLEU_2 = 0.39804, BLEU_3 = 0.35683, BLEU_4 = 0.32090
+Epoch: [6 / 50] | Time: 236.68s | Loss: 45.7747 | Val scores: BLEU_1 = 0.44904, BLEU_2 = 0.40079, BLEU_3 = 0.35946, BLEU_4 = 0.32342
+Epoch: [7 / 50] | Time: 236.32s | Loss: 44.5913 | Val scores: BLEU_1 = 0.45848, BLEU_2 = 0.40868, BLEU_3 = 0.36642, BLEU_4 = 0.32972
+Epoch: [8 / 50] | Time: 236.07s | Loss: 43.2690 | Val scores: BLEU_1 = 0.43657, BLEU_2 = 0.38963, BLEU_3 = 0.34941, BLEU_4 = 0.31448
+Epoch: [9 / 50] | Time: 235.93s | Loss: 41.9858 | Val scores: BLEU_1 = 0.45977, BLEU_2 = 0.41013, BLEU_3 = 0.36796, BLEU_4 = 0.33134
+Epoch: [10 / 50] | Time: 235.84s | Loss: 41.4117 | Val scores: BLEU_1 = 0.44109, BLEU_2 = 0.39339, BLEU_3 = 0.35261, BLEU_4 = 0.31702
+Epoch: [11 / 50] | Time: 235.74s | Loss: 40.5638 | Val scores: BLEU_1 = 0.45593, BLEU_2 = 0.40801, BLEU_3 = 0.36658, BLEU_4 = 0.33034
+Epoch: [12 / 50] | Time: 235.54s | Loss: 39.9369 | Val scores: BLEU_1 = 0.45548, BLEU_2 = 0.40592, BLEU_3 = 0.36360, BLEU_4 = 0.32674
+Epoch: [13 / 50] | Time: 235.21s | Loss: 38.3644 | Val scores: BLEU_1 = 0.48113, BLEU_2 = 0.43055, BLEU_3 = 0.38686, BLEU_4 = 0.34859
+Epoch: [14 / 50] | Time: 234.98s | Loss: 37.8975 | Val scores: BLEU_1 = 0.50103, BLEU_2 = 0.44840, BLEU_3 = 0.40307, BLEU_4 = 0.36348
+Epoch: [15 / 50] | Time: 234.73s | Loss: 37.4826 | Val scores: BLEU_1 = 0.50270, BLEU_2 = 0.44967, BLEU_3 = 0.40409, BLEU_4 = 0.36419
+Epoch: [16 / 50] | Time: 234.51s | Loss: 37.0690 | Val scores: BLEU_1 = 0.52495, BLEU_2 = 0.46997, BLEU_3 = 0.42277, BLEU_4 = 0.38166
+Epoch: [17 / 50] | Time: 234.41s | Loss: 36.8778 | Val scores: BLEU_1 = 0.48993, BLEU_2 = 0.43799, BLEU_3 = 0.39353, BLEU_4 = 0.35473
+Epoch: [18 / 50] | Time: 234.23s | Loss: 36.4916 | Val scores: BLEU_1 = 0.52412, BLEU_2 = 0.46948, BLEU_3 = 0.42257, BLEU_4 = 0.38178
+Epoch: [19 / 50] | Time: 234.07s | Loss: 36.3392 | Val scores: BLEU_1 = 0.51315, BLEU_2 = 0.45914, BLEU_3 = 0.41291, BLEU_4 = 0.37263
+Epoch: [20 / 50] | Time: 233.92s | Loss: 35.9542 | Val scores: BLEU_1 = 0.53325, BLEU_2 = 0.47804, BLEU_3 = 0.43039, BLEU_4 = 0.38890
+Epoch: [21 / 50] | Time: 233.79s | Loss: 35.7289 | Val scores: BLEU_1 = 0.55557, BLEU_2 = 0.49965, BLEU_3 = 0.45129, BLEU_4 = 0.40898
+Epoch: [22 / 50] | Time: 233.72s | Loss: 35.4418 | Val scores: BLEU_1 = 0.53378, BLEU_2 = 0.47892, BLEU_3 = 0.43168, BLEU_4 = 0.39028
+Epoch: [23 / 50] | Time: 233.68s | Loss: 35.0464 | Val scores: BLEU_1 = 0.54221, BLEU_2 = 0.48587, BLEU_3 = 0.43733, BLEU_4 = 0.39475
+Epoch: [24 / 50] | Time: 233.63s | Loss: 34.9369 | Val scores: BLEU_1 = 0.54066, BLEU_2 = 0.48565, BLEU_3 = 0.43821, BLEU_4 = 0.39668
+Epoch: [25 / 50] | Time: 233.54s | Loss: 34.3767 | Val scores: BLEU_1 = 0.55789, BLEU_2 = 0.50192, BLEU_3 = 0.45356, BLEU_4 = 0.41102
+Epoch: [26 / 50] | Time: 233.46s | Loss: 34.1666 | Val scores: BLEU_1 = 0.54820, BLEU_2 = 0.49205, BLEU_3 = 0.44353, BLEU_4 = 0.40103
+Epoch: [27 / 50] | Time: 233.38s | Loss: 33.9166 | Val scores: BLEU_1 = 0.56410, BLEU_2 = 0.50747, BLEU_3 = 0.45863, BLEU_4 = 0.41574
+Epoch: [28 / 50] | Time: 233.33s | Loss: 33.7346 | Val scores: BLEU_1 = 0.55525, BLEU_2 = 0.49918, BLEU_3 = 0.45076, BLEU_4 = 0.40831
+Epoch: [29 / 50] | Time: 233.27s | Loss: 33.5411 | Val scores: BLEU_1 = 0.57659, BLEU_2 = 0.51950, BLEU_3 = 0.47013, BLEU_4 = 0.42704
+Epoch: [30 / 50] | Time: 233.24s | Loss: 33.5103 | Val scores: BLEU_1 = 0.58626, BLEU_2 = 0.52840, BLEU_3 = 0.47821, BLEU_4 = 0.43421
+Epoch: [31 / 50] | Time: 233.17s | Loss: 33.3624 | Val scores: BLEU_1 = 0.57008, BLEU_2 = 0.51352, BLEU_3 = 0.46454, BLEU_4 = 0.42155
+Epoch: [32 / 50] | Time: 233.12s | Loss: 33.4137 | Val scores: BLEU_1 = 0.56870, BLEU_2 = 0.51228, BLEU_3 = 0.46342, BLEU_4 = 0.42045
+Epoch: [33 / 50] | Time: 233.09s | Loss: 33.2628 | Val scores: BLEU_1 = 0.56519, BLEU_2 = 0.50904, BLEU_3 = 0.46034, BLEU_4 = 0.41755
+Epoch: [34 / 50] | Time: 233.07s | Loss: 32.8745 | Val scores: BLEU_1 = 0.58113, BLEU_2 = 0.52369, BLEU_3 = 0.47384, BLEU_4 = 0.43023
+Epoch: [35 / 50] | Time: 233.06s | Loss: 32.7518 | Val scores: BLEU_1 = 0.58889, BLEU_2 = 0.53109, BLEU_3 = 0.48078, BLEU_4 = 0.43669
+Epoch: [36 / 50] | Time: 233.07s | Loss: 32.6808 | Val scores: BLEU_1 = 0.58625, BLEU_2 = 0.52767, BLEU_3 = 0.47692, BLEU_4 = 0.43248
+Epoch: [37 / 50] | Time: 233.08s | Loss: 32.6281 | Val scores: BLEU_1 = 0.58329, BLEU_2 = 0.52584, BLEU_3 = 0.47587, BLEU_4 = 0.43202
+Epoch: [38 / 50] | Time: 233.07s | Loss: 32.5433 | Val scores: BLEU_1 = 0.58525, BLEU_2 = 0.52686, BLEU_3 = 0.47621, BLEU_4 = 0.43190
+Epoch: [39 / 50] | Time: 233.06s | Loss: 32.6020 | Val scores: BLEU_1 = 0.58774, BLEU_2 = 0.52986, BLEU_3 = 0.47938, BLEU_4 = 0.43506
+Epoch: [40 / 50] | Time: 233.04s | Loss: 32.1445 | Val scores: BLEU_1 = 0.58551, BLEU_2 = 0.52795, BLEU_3 = 0.47784, BLEU_4 = 0.43388
+Epoch: [41 / 50] | Time: 233.03s | Loss: 32.2798 | Val scores: BLEU_1 = 0.59732, BLEU_2 = 0.53937, BLEU_3 = 0.48886, BLEU_4 = 0.44446
+Epoch: [42 / 50] | Time: 232.98s | Loss: 32.4046 | Val scores: BLEU_1 = 0.59773, BLEU_2 = 0.53901, BLEU_3 = 0.48789, BLEU_4 = 0.44311
+Epoch: [43 / 50] | Time: 232.94s | Loss: 32.1493 | Val scores: BLEU_1 = 0.59820, BLEU_2 = 0.54016, BLEU_3 = 0.48938, BLEU_4 = 0.44468
+Epoch: [44 / 50] | Time: 232.91s | Loss: 32.1287 | Val scores: BLEU_1 = 0.59324, BLEU_2 = 0.53487, BLEU_3 = 0.48409, BLEU_4 = 0.43949
+Epoch: [45 / 50] | Time: 232.87s | Loss: 32.2325 | Val scores: BLEU_1 = 0.59098, BLEU_2 = 0.53361, BLEU_3 = 0.48365, BLEU_4 = 0.43985
+Epoch: [46 / 50] | Time: 232.83s | Loss: 32.0644 | Val scores: BLEU_1 = 0.58277, BLEU_2 = 0.52540, BLEU_3 = 0.47545, BLEU_4 = 0.43175
+Epoch: [47 / 50] | Time: 232.79s | Loss: 32.0110 | Val scores: BLEU_1 = 0.60072, BLEU_2 = 0.54284, BLEU_3 = 0.49227, BLEU_4 = 0.44786
+Epoch: [48 / 50] | Time: 232.77s | Loss: 32.0363 | Val scores: BLEU_1 = 0.59999, BLEU_2 = 0.54199, BLEU_3 = 0.49141, BLEU_4 = 0.44701
+Epoch: [49 / 50] | Time: 232.75s | Loss: 32.0058 | Val scores: BLEU_1 = 0.60462, BLEU_2 = 0.54607, BLEU_3 = 0.49493, BLEU_4 = 0.45010
+Epoch: [50 / 50] | Time: 232.71s | Loss: 31.8199 | Val scores: BLEU_1 = 0.59809, BLEU_2 = 0.54001, BLEU_3 = 0.48931, BLEU_4 = 0.44476
+Test examples: 603 | Time: 786.93s |  Test scores: BLEU_1 = 0.64975, BLEU_2 = 0.59110, BLEU_3 = 0.53981, BLEU_4 = 0.49458
+Total runtime: 24772.08s
+
