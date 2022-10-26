@@ -15,6 +15,6 @@
     ```
     python process_imojie_train_dataset.py
     ```
-    you can get `train_1w.json`, `train_3w.json` and `train_9w.json` in /raw folder
+    you can get `train_1w.json`, `train_3w.json` and `train_9w.json` in `/raw` folder
 
 2. Val and test set is placed in `/raw` folder named as `val.json` and `test.json`, they are from [CaRB](https://github.com/dair-iitd/CaRB)
