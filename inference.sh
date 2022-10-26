@@ -1,0 +1,1 @@
+python inference.py -g2s_config config/gcn_bisep.yaml -task_config config/cnn.yaml
