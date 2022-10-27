@@ -29,4 +29,4 @@ bash inference.sh
 ```
 
 ## Performance
-- [训练日志](GraphOIE\out\gcn_bi_sep_l2_ckpt\metric.log)
+- [训练日志](\out\gcn_bi_sep_l2_ckpt\metric.log)
