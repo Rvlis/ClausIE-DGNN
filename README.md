@@ -31,10 +31,10 @@ bash inference.sh
 with `single input` and `batch input`
 
 ## Performance
-- [训练日志](./out/gcn_bi_sep_l2_ckpt/metric.log)
+- [Training log](./out/gcn_bi_sep_l2_ckpt/metric.log)
 - with BLEU score `BLEU_1 = 0.64975, BLEU_2 = 0.59110, BLEU_3 = 0.53981, BLEU_4 = 0.49458`
 
-- Performance on CaRB:
+- [Performance on CaRB](./out/gcn_bi_sep_l2_ckpt/carb.log)
 
 |  System     | Precision   | Recall        |     F1        |
 | :---:       |    :----:   |     :---:     |     :---:     |
