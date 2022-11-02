@@ -23,13 +23,18 @@
 ```bash
 bash train.sh
 ```
+
 ## Inference
 ```bash
 bash inference.sh
 ```
+with `single input` and `batch input`
 
 ## Performance
 - [训练日志](./out/gcn_bi_sep_l2_ckpt/metric.log)
+- with BLEU score `BLEU_1 = 0.64975, BLEU_2 = 0.59110, BLEU_3 = 0.53981, BLEU_4 = 0.49458`
+
+- Performance on CaRB:
 
 |  System     | Precision   | Recall        |     F1        |
 | :---:       |    :----:   |     :---:     |     :---:     |
@@ -37,8 +42,8 @@ bash inference.sh
 | PropS       | 0.34        | 0.30          | 0.32          |
 | OpenIE-4    | 0.55        | 0.44          | 0.49          |
 | OpenIE-5    | 0.52        | 0.42          | 0.47          |
-| OpenIE-6    | 0.58        | 0.48          | 0.52          |
-| ClausIE     | 0.41        | 0.50          | 0.45          |
-| IMoJIE      | __0.59__    | 0.49          | 0.54          |
+| OpenIE-6    | <u>0.58</u> | 0.48          | <u>0.52</u>   |
+| ClausIE     | 0.41        | <u>0.50</u>   | 0.45          |
+| IMoJIE      | __0.59__    | 0.49          | __0.54__      |
 | __GraphIE__ | 0.53        | __0.54__      | __0.54__      |
 
