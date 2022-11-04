@@ -1,4 +1,4 @@
-# GraphOIE
+# ClausIE-DGNN：Clause-based Open Information Extraction With Dependency Graph Neural Network
 
 ## Requirements
 - Ubuntu 18.04
