@@ -9,8 +9,8 @@
 - [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/download.html) for dependnecy parsing
 
 ## Dataset
-- Train set is from __imojie__, the original can download from [here](https://github.com/dair-iitd/imojie) by running __download_data.sh__ 
-1. Train set:
+- Training set is from __imojie__, the original set can download from [here](https://github.com/dair-iitd/imojie) by running __download_data.sh__ 
+1. Training set:
     By running
     ```
     python process_imojie_train_dataset.py
@@ -19,7 +19,7 @@
 
 2. Val and test set is placed in `/raw` folder named as `val.json` and `test.json`, they are from [CaRB](https://github.com/dair-iitd/CaRB)
 
-## Train
+## Train model
 ```bash
 bash train.sh
 ```
@@ -31,10 +31,10 @@ bash inference.sh
 with `single input` and `batch input`
 
 ## Performance
-- [Training log](./out/gcn_bi_sep_l2_ckpt/metric.log)
-- with BLEU score `BLEU_1 = 0.64975, BLEU_2 = 0.59110, BLEU_3 = 0.53981, BLEU_4 = 0.49458`
+1. [Training log](./out/gcn_bi_sep_l2_ckpt/metric.log)
+    - with BLEU score `BLEU_1 = 0.64975, BLEU_2 = 0.59110, BLEU_3 = 0.53981, BLEU_4 = 0.49458`
 
-- [Performance on CaRB](./out/gcn_bi_sep_l2_ckpt/carb.log)
+2. [Performance on CaRB](./out/gcn_bi_sep_l2_ckpt/carb.log)
 
 |  System     | Precision   | Recall        |     F1        |
 | :---:       |    :----:   |     :---:     |     :---:     |
