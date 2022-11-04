@@ -36,14 +36,14 @@ with `single input` and `batch input`
 
 2. [Performance on CaRB](./out/gcn_bi_sep_l2_ckpt/carb.log)
 
-|  System     | Precision   | Recall        |     F1        |
-| :---:       |    :----:   |     :---:     |     :---:     |
-| Ollie       | 0.51        | 0.35          | 0.41          |
-| PropS       | 0.34        | 0.30          | 0.32          |
-| OpenIE-4    | 0.55        | 0.44          | 0.49          |
-| OpenIE-5    | 0.52        | 0.42          | 0.47          |
-| OpenIE-6    | <u>0.58</u> | 0.48          | <u>0.52</u>   |
-| ClausIE     | 0.41        | <u>0.50</u>   | 0.45          |
-| IMoJIE      | __0.59__    | 0.49          | __0.54__      |
-| __GraphIE__ | 0.53        | __0.54__      | __0.54__      |
+    |  System     | Precision   | Recall        |     F1        |
+    | :---:       |    :----:   |     :---:     |     :---:     |
+    | Ollie       | 0.51        | 0.35          | 0.41          |
+    | PropS       | 0.34        | 0.30          | 0.32          |
+    | OpenIE-4    | 0.55        | 0.44          | 0.49          |
+    | OpenIE-5    | 0.52        | 0.42          | 0.47          |
+    | OpenIE-6    | <u>0.58</u> | 0.48          | <u>0.52</u>   |
+    | ClausIE     | 0.41        | <u>0.50</u>   | 0.45          |
+    | IMoJIE      | __0.59__    | 0.49          | __0.54__      |
+    | __ClausIE-DGNN__ | 0.53        | __0.54__      | __0.54__      |
 
