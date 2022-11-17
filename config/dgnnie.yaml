@@ -1,5 +1,5 @@
 # Data
-dataset: 'cnn'
+dataset: 'imojie'
 
 # Preprocessing
 top_word_vocab: 70000

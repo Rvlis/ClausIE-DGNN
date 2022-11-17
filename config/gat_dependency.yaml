@@ -1,9 +1,9 @@
 graph_construction_name: "dependency"
 graph_embedding_name: "gcn"
-decoder_name: "stdrnn"
+decoder_name: "lstm"
 
-out_dir: "out/gcn_bi_sep_l2_ckpt"
-model_type: 'gcn'
+out_dir: "out/saved_ckpt"
+model_type: 'gat'
 
 vocab_lower_case: true
 
@@ -70,8 +70,3 @@ decoder_args:
     max_decoder_step: 100
     node_type_num: null
     tgt_emb_as_output_layer: true
-
-
-
-
-# screen -S gcn_sep python -m examples.pytorch.summarization.cnn.main -g2s_config examples/pytorch/summarization/cnn/config/gcn_bisep.yaml -task_config examples/pytorch/summarization/cnn/config/lcsts.yaml

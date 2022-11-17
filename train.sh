@@ -1,1 +1,1 @@
-python main.py -g2s_config config/gcn_bisep.yaml -task_config config/cnn.yaml
+python main.py -g2s_config config/gat_dependency.yaml -task_config config/dgnnie.yaml
