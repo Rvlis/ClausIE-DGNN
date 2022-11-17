@@ -18,7 +18,8 @@
     you can get `train_1w.json`, `train_3w.json` and `train_9w.json` in `/raw` folder
 
 2. Val and test set is placed in `/raw` folder named as `val.json` and `test.json`, they are from [CaRB](https://github.com/dair-iitd/CaRB)
-    ⚠ Because DGnnIE only considers binary extraction, the `val` and `test` are processed by filtering out n-ary extractions, you can get them by run
+
+    Noting that because DGnnIE only considers binary extraction, the `val` and `test` are processed by filtering out n-ary extractions, you can get them by run
     ```python
     python process_carb_val_and_test_dataset.py
     ``` 
