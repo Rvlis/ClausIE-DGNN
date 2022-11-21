@@ -44,7 +44,7 @@ with `single input` and `batch input`
     |  System     | Precision   | Recall        |     F1        |
     | :---:       |    :----:   |     :---:     |     :---:     |
     | Ollie       | 0.59        | 0.46          | 0.52          |
-    | ClausIE     | 0.53        | __0.62__      | 0.57          |
+    | ClausIE     | 0.53        | 0.62          | 0.57          |
     | PropS       | 0.45        | 0.36          | 0.40          |
     | OpenIE-4    | 0.63        | 0.58          | 0.60          |
     | OpenIE-5    | 0.58        | 0.57          | 0.57          |
@@ -52,5 +52,5 @@ with `single input` and `batch input`
     | SpanOIE     | -           | -             | 0.48          |
     | IMoJIE      | 0.66        | 0.55          | 0.60          |
     | OpenIE-6    | 0.65        | 0.56          | 0.60          |
-    | __DGnnIE__ | __0.70__     | 0.61          | __0.65__      |
+    | __DGnnIE__ | __0.70__     | __0.66__      | __0.68__      |
 
