@@ -1,4 +1,4 @@
-# DeGNNIE: Dependency Graph Neural Network based Open Information Extraction
+# DGNNIE: Dependency Graph Neural Network based Open Information Extraction
 
 ## Requirements
 - Ubuntu 18.04
